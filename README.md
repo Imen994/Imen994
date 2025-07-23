@@ -30,7 +30,7 @@
 
 ## 📫 Let's Connect
 
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+
 - 💼 LinkedIn: [linkedin.com/in/Imen](https://www.linkedin.com/in/imen-farhat-5b31b336b/)
 - ✉️ Email: farhatimen102@gmail.com
 
