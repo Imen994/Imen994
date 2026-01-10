@@ -1,10 +1,12 @@
  Hi, I'm Imen !
+Passionate Computer Science student and full-stack & machine learning developer.
 
 ## 💡 About Me
-- 🌐 Build responsive websites with HTML, CSS, JavaScript
-- ⚙️ Develop full-stack apps using MERN stack (MongoDB, Express, React, Node)
-- 🎨 Focus on UI/UX and performance
-- 📚 Always exploring new frameworks & tools
+🌐 Build responsive websites using HTML, CSS, JavaScript
+⚙️ Develop full-stack apps using Node.js, Express, MongoDB
+🤖 Work on Machine Learning projects: predictive modeling, data preprocessing, feature engineering, and deploying ML models
+🎨 Focus on UI/UX and performance
+📚 Always exploring new frameworks, tools, and data science techniques
 
 
 🔧 Technologies & Tools
@@ -17,12 +19,19 @@
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+1[Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 
 
 ## 🚀 Projects
 
-- 🛒 **Ecommerce Store** – Application e-commerce moderne avec panier, paiement, et gestion des produits
-- 💬 **Mini Social Media** – Mini réseau social avec création de posts, likes et commentaires en temps réel
+- 🛒 Restaurant Management – Full-stack e-commerce application with cart, payment, and product management features
+
+💬 Machine Learning Predictive Model – Mini social network with posts, likes, comments; includes predictive analytics and model evaluation
+Technologies: Python, Pandas, Scikit-learn
+Features: data preprocessing, feature engineering, predictive modeling, accuracy evaluationl
 
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imen994&show_icons=true&theme=github_dark)
