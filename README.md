@@ -27,7 +27,8 @@ Passionate Computer Science student and full-stack & machine learning developer.
 
 ## 🚀 Projects
 
-- 🛒 Restaurant Management – Full-stack e-commerce application with cart, payment, and product management features
+- 🛒 Restaurant Management  Full-stack web application built with Node.js, Express.js, and MongoDB.
+Features include real-time order tracking, inventory management, and an analytics dashboard.
 
 💬 Machine Learning Predictive Model – Mini social network with posts, likes, comments; includes predictive analytics and model evaluation
 Technologies: Python, Pandas, Scikit-learn
