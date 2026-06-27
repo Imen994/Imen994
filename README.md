@@ -2,7 +2,7 @@
 
 **Computer Science Student · Mobile & AI Developer**
 
-Passionate about building intelligent, user-friendly applications — from Flutter mobile apps to AI-powered backends. I recently completed my Final Year Project (PFE) developing a full ERP mobile system with an AI stock prediction module, successfully defended in June 2026.
+Passionate about building intelligent, user-friendly applications  from Flutter mobile apps to AI-powered backends. I recently completed my Final Year Project (PFE) developing a full ERP mobile system with an AI stock prediction module, successfully defended in June 2026.
 
 ---
 
@@ -58,7 +58,7 @@ Passionate about building intelligent, user-friendly applications — from Flutt
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 📦 YUCCA ERP Mobile *(Final Year Project — PFE)*
 > Flutter · FastAPI · Django · LightGBM · Docker · Supabase · Firebase FCM
